@@ -11,10 +11,10 @@ This project analyses over 100,000 orders from the Olist Brazilian E-Commerce pl
 - **Tables Used:** Orders, Order Items, Order Payments
 
 ## Files
-
+Due to their sizes, the files are available on Google Drive.
 | File | Description | Link |
 |---|---|---|
-| olist_sales_analysis.xlsx | Dashboard and working data | [Download](./olist_sales_analysis.xlsx) |
+| olist_sales_analysis.xlsx | Dashboard and working data | [View on Google Drive](https://docs.google.com/spreadsheets/d/11-Wv6cAOfxSNyYmZ6SmZf3G1MDcMjYpm/edit?usp=drivesdk&ouid=105863017728224190289&rtpof=true&sd=true) |
 | Full workbook with analysis | Includes all Pivot Tables and analysis sheets | [View on Google Drive](https://docs.google.com/spreadsheets/d/10zG8pGkC_14pqxOND10ljT0lw6VYv3Hr/edit?usp=drivesdk&ouid=105863017728224190289&rtpof=true&sd=true) |
 
 ## Skills Demonstrated
