@@ -95,3 +95,4 @@ Due to their sizes, the files are available on Google Drive.
 
 ## Author
 **Samuel Aladegbaiye**
+aladegbaiyesarmmie@gmail.com
