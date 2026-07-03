@@ -1,5 +1,5 @@
 # Data Analyst Portfolio
-### Sarmmie | Excel · SQL · Power BI
+### Excel · SQL · Power BI
 
 A portfolio of end-to-end data analysis projects demonstrating 
 skills in data cleaning, transformation, analysis and visualisation 
