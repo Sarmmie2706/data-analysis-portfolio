@@ -25,6 +25,3 @@ tools, which mirrors how analysts work in real environments.
 
 ---
 
-
-## Connect
-[LinkedIn]([INSERT LINKEDIN URL])
