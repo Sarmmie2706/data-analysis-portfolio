@@ -1,14 +1,30 @@
 # Data Analyst Portfolio
+### Sarmmie | Excel · SQL · Power BI
 
-Data analysis projects using Excel, SQL, and Power BI
+A portfolio of end-to-end data analysis projects demonstrating 
+skills in data cleaning, transformation, analysis and visualisation 
+across industry-standard tools.
+
+---
 
 ## Projects
 
-### Excel
+| Project | Tools | Description | Link |
+|---|---|---|---|
+| Olist E-Commerce Analysis | Excel | Sales performance, delivery operations and payment analysis across 100k+ orders | [View](./excel/) |
+| Olist E-Commerce Analysis | SQL Server | Extended analysis across all 9 tables — customer, seller, product and operational insights | [View](./sql/) |
 
-### SQL
+---
 
-### Power BI
+## About This Portfolio
 
-## Skills
-Excel · SQL · Power BI
+All three projects use the same dataset — the Olist Brazilian 
+E-Commerce dataset from Kaggle — intentionally. This demonstrates 
+the ability to work with the same data end-to-end across different 
+tools, which mirrors how analysts work in real environments.
+
+---
+
+
+## Connect
+[LinkedIn]([INSERT LINKEDIN URL])
