@@ -14,14 +14,13 @@ across customer, seller, product and operational dimensions.
 ## Files
 | File | Description |
 |---|---|
-| 01_setup-relationships.sql | Database creation and Setting Up table relationships|
-| 02_relationships.sql | Foreign key constraints |
+| 01_setup_relationships.sql | Database creation and Setting Up table relationships|
 | 02_eda.sql | Exploratory data analysis |
-| 03_customer.sql | Customer analysis queries |
-| 04_seller.sql | Seller performance queries |
-| 05_product.sql | Product category queries |
-| 06_operations.sql | Operational analysis queries |
-| 07_advanced.sql | Window functions and advanced queries |
+| 03_customer_analysis.sql | Customer analysis queries |
+| 04_seller_analysis.sql | Seller performance queries |
+| 05_product_analysis.sql | Product category queries |
+| 06_operational_analysis.sql | Operational analysis queries |
+| 07_advanced_queries.sql | Window functions and advanced queries |
 
 ## Skills Demonstrated
 - Database design and relationship definition
