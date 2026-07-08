@@ -25,7 +25,7 @@ the ability to work with the same data end-to-end across different
 tools, which is similar how analysts work in real environments.
 
 ### Cross Tool Validation Finding
-In the course of this project, the total revenue returned by the Excel and Power BI analysis returned different figures, $19.8M and $15.42M respectively. Investigation revealed the Excel working data merged order_items with payments, duplicating payment values for multi-item orders. The correct figure of $15.42M was independently confirmed by both SQL Server and Power BI. This finding is documented in Excel's README as an example of why cross-validating results across tools is essential analytical practice.
+In the course of this project, the total revenue returned by the Excel and Power BI analysis returned different figures, $19.8M and $15.42M respectively. Investigation revealed the Excel working data merged order_items with payments, duplicating payment values for multi-item orders. The correct figure of $15.42M was independently confirmed by both SQL Server and Power BI. This finding is documented in Power BI's README as an example of why cross-validating results across tools is essential analytical practice.
 
 ---
 
