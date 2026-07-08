@@ -8,7 +8,7 @@ This Power BI report is the third and final phase of the Olist E-Commerce analys
 | File | Description | Link |
 |---|---|---|
 | olist_powerbi_report.pdf | Full 4-page report exported as PDF | [View](./olist_powerbi_report.pdf) |
-| olist_powerbi_report.pbix | Power BI Desktop file | [View on Google Drive](https://drive.google.com/file/d/12V-7-7I93uSxdw91klt36Eac9Ha5Y8dv/view?usp=drivesdk) |
+| olist_powerbi_report.pbix | Power BI Desktop file | [View on Google Drive](https://drive.google.com/file/d/12n5J1I6BWdu-JXLwpLNHidYtNS1vOCBD/view?usp=drivesdk) |
 
 ## Data Model
 The report uses a star schema with 9 tables connected through defined relationships:
